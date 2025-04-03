@@ -17,7 +17,7 @@ p {
   color: green;
 }
 
-[value="4"] {
+li[value="4"] {
   color: blue;
 }
 
