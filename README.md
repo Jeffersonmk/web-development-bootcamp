@@ -115,14 +115,14 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ├── 3.3 Image Elements/
 ├── 3.4 Birthday Invite Project/
 ├── 4.0 File Paths/
-├── 4.1+Webpages/
+├── 4.1 Webpages/
 ├── 4.3 HTML Porfolio Project/
 ├── 5.1 Adding CSS/
 ├── 5.3 CSS Selectors/
-├── 5.4+Color+Vocab+Project/
+├── 5.4 Color Vocab Project/
 ├── 6.0 CSS Colors/
-├── 6.1+Font+Properties/
-├── 6.3+CSS+Box+Model/
+├── 6.1 Font Properties/
+├── 6.3 CSSBox Model/
 ```
 
 ---
