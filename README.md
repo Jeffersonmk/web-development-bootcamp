@@ -122,7 +122,7 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ├── 5.4 Color Vocab Project/
 ├── 6.0 CSS Colors/
 ├── 6.1 Font Properties/
-├── 6.3 CSSBox Model/
+├── 6.3 CSS Box Model/
 ```
 
 ---
