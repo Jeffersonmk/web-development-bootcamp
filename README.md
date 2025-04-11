@@ -43,9 +43,9 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ### ☑️ Módulo 6: CSS Intermediário / Intermediate CSS
 - ✅ 6.0 CSS Colors
 - ✅ 6.1 Font Properties
+- ✅ 6.2 Web Safe Fonts and Font Stacks
 - ✅ 6.3 CSS Box Model
-- ☐ 6.2 Web Safe Fonts and Font Stacks
-- ☐ 6.4 Margin and Padding
+- ✅ 6.4 Margin and Padding
 - ☐ 6.5 Dev Tools and Debugging CSS
 - ☐ 6.6 Display Property
 - ☐ 6.7 CSS Positioning
@@ -123,6 +123,7 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ├── 6.0 CSS Colors/
 ├── 6.1 Font Properties/
 ├── 6.3 CSS Box Model/
+├── 6.4 Motivation Meme Project/
 ```
 
 ---
