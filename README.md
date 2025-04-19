@@ -124,6 +124,9 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ├── 6.1 Font Properties/
 ├── 6.3 CSS Box Model/
 ├── 6.4 Motivation Meme Project/
+├── 7.0 CSS Cascade/
+├── 7.1 Combining Selectors/
+├── 7.2 CSS Positioning/
 ```
 
 ---
