@@ -46,13 +46,13 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 - ✅ 6.2 Web Safe Fonts and Font Stacks
 - ✅ 6.3 CSS Box Model
 - ✅ 6.4 Margin and Padding
-- ☐ 6.5 Dev Tools and Debugging CSS
-- ☐ 6.6 Display Property
-- ☐ 6.7 CSS Positioning
-- ☐ 6.8 Z-Index and Overlapping Elements
-- ☐ 6.9 CSS Float and Clear
-- ☐ 6.10 The Flexbox Layout
-- ☐ 6.11 Flexbox Pricing Table Project
+- ✅ 6.5 Dev Tools and Debugging CSS
+- ✅ 6.6 Display Property
+- ✅ 6.7 CSS Positioning
+- ✅ 6.8 Z-Index and Overlapping Elements
+- ✅ 6.9 CSS Float and Clear
+- ✅ 6.10 The Flexbox Layout
+- ✅ 6.11 Flexbox Pricing Table Project
 
 ### ☐ Módulo 7: CSS Avançado / Advanced CSS
 - ☐ 7.0 CSS Grid
@@ -127,6 +127,10 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ├── 7.0 CSS Cascade/
 ├── 7.1 Combining Selectors/
 ├── 7.2 CSS Positioning/
+├── 7.3 CSS Flag Project/
+├── 8.0 CSS Display/
+├── 8.1 CSS Float/
+
 ```
 
 ---
