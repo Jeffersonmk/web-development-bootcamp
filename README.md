@@ -165,4 +165,4 @@ Curso completo de desenvolvimento web full-stack, que aborda desde HTML, CSS e J
 
 A complete full-stack web development course covering everything from HTML, CSS, and JavaScript to backend with Node.js, Express, databases, APIs, and deployment.
 
-🔗 [Link para o curso](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37368124?start=1035#overview)
+🔗 [Link para o curso](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
