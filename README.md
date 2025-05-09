@@ -146,6 +146,8 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ├── 8.0 CSS Display/
 ├── 8.1 CSS Float/
 ├── 8.2 Responsiveness/
+├── 8.3 Media Query/
+├── 8.4 Web Design Agency Project/
 
 ```
 
