@@ -148,6 +148,12 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ├── 8.2 Responsiveness/
 ├── 8.3 Media Query/
 ├── 8.4 Web Design Agency Project/
+├── 9.0 Display Flex/
+├── 9.1 Flex Direction/
+├── 9.4 Flexbox Table Project/
+├── 10.0 Display Grid/
+├── 10.2 Grid Placement/
+├── 10.3 Mondrian Project/
 
 ```
 
