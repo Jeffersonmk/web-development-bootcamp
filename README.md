@@ -62,9 +62,9 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
   - ✅ 6.11 Flexbox Pricing Table Project  
 
 - ☐ **Módulo 7: CSS Avançado / Advanced CSS**
-  - ☐ 7.0 CSS Grid  
-  - ☐ 7.1 Grid vs Flexbox  
-  - ☐ 7.2 Grid Layout Project  
+  - ✅ 7.0 CSS Grid  
+  - ✅ 7.1 Grid vs Flexbox  
+  - ✅ 7.2 Grid Layout Project  
 
 ---
 
