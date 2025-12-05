@@ -69,11 +69,11 @@ Below is the course progress, with ✅ for completed topics and ☐ for those st
 ---
 
 ### ⚙️ Frameworks de Estilo / Styling Frameworks
-- ☐ **Módulo 8: Bootstrap**
-  - ☐ 8.0 Intro to Bootstrap  
-  - ☐ 8.1 Bootstrap Components  
-  - ☐ 8.2 Bootstrap Layout  
-  - ☐ 8.3 Bootstrap Project  
+- ✅ **Módulo 8: Bootstrap**
+  - ✅ 8.0 Intro to Bootstrap  
+  - ✅ 8.1 Bootstrap Components  
+  - ✅ 8.2 Bootstrap Layout  
+  - ✅ 8.3 Bootstrap Project  
 
 ---
 
